@@ -1,0 +1,7 @@
+# Temporary/source staging folder
+files/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
